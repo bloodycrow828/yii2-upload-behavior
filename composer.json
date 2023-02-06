@@ -26,6 +26,12 @@
     "yiisoft/yii2": "*",
     "elisdn/phpthumb": "*"
   },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/elisdn/PHPThumb"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "yiidreamteam\\upload\\": "./src"
